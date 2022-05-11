@@ -1,0 +1,88 @@
+Dependencies for Project 'pr1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6140000::V6.14::ARMCLANG
+F (.\I2C.c)(0x6133A734)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/i2c.o -MD)
+I (..\MPU9250_position_sensor\I2C.h)(0x61335A93)
+I (..\MPU9250_position_sensor\main.h)(0x604B5EDF)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
+F (.\I2C.h)(0x61335A93)()
+F (.\main.c)(0x627B9417)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/main.o -MD)
+I (..\MPU9250_position_sensor\main.h)(0x604B5EDF)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
+I (..\MPU9250_position_sensor\Rington.h)(0x61289FE0)
+I (..\MPU9250_position_sensor\OLED_SSD1306.h)(0x614C443E)
+I (..\MPU9250_position_sensor\MPU9250_progI2C.h)(0x627B8FA1)
+F (.\main.h)(0x604B5EDF)()
+F (.\OLED_SSD1306.c)(0x614C443E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/oled_ssd1306.o -MD)
+I (..\MPU9250_position_sensor\OLED_SSD1306.h)(0x614C443E)
+I (..\MPU9250_position_sensor\main.h)(0x604B5EDF)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
+F (.\OLED_SSD1306.h)(0x614C443E)()
+F (.\Rington.c)(0x627B874E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/rington.o -MD)
+I (..\MPU9250_position_sensor\Rington.h)(0x61289FE0)
+I (..\MPU9250_position_sensor\main.h)(0x604B5EDF)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
+F (.\Rington.h)(0x61289FE0)()
+F (.\MPU9250_progI2C.c)(0x627B9417)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/mpu9250_progi2c.o -MD)
+I (..\MPU9250_position_sensor\MPU9250_progI2C.h)(0x627B8FA1)
+I (..\MPU9250_position_sensor\main.h)(0x604B5EDF)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
+I (..\MPU9250_position_sensor\Rington.h)(0x61289FE0)
+F (.\MPU9250_progI2C.h)(0x627B8FA1)()
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x592817E6)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x582570AC)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-3 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 530" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x582570AC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../MPU9250_position_sensor-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Dima/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/Dima/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.3.0/Device/Include-D__UVISION_VERSION="530" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x582570AC)
+I (RTE\_Target_1\RTE_Components.h)(0x61336E92)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DE035B2)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F0962)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E833F02)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8F0962)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CFB2C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CFB58)
+I (C:\Users\Dima\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x582570AC)
